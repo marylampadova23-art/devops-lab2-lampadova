@@ -61,7 +61,6 @@ marylampadova/my-flask-app
 
 ### 3. Настройка GitHub Secrets
 
-В настройках GitHub-репозитория были соз Настройка GitHub Secrets
 
 В настройках GitHub-репозитория были созданы два секрета:
 
